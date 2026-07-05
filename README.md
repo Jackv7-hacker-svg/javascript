@@ -1,2 +1,1 @@
-# JAVASCRIPT
-# A TO Z
+# javascript a to z
